@@ -1,4 +1,8 @@
 # tugasWeb
-_branch main adalah gabungan dari tampilan tugas yang diberikan. untuk melihat detail tugas yang diberikan silahkan pilih branch yang ada di repository ini_
+_branch main adalah gabungan dari tampilan tugas yang diberikan. untuk melihat detail tugas yang diberikan silahkan pilih branch yang ada di repository ini, atau dapat menklik link berikut_
 
-(https://id.pinterest.com/pin/29906785017377858/)
++ [Desain Landing Page]
++ [Desain Halaman Login]
++ [Desain Dasboard]
++ [Desain Tabel]
++ [Desain From]
