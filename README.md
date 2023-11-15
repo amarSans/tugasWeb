@@ -1,4 +1,4 @@
-![Gamma](https://github.com/amarSans/tugasWeb/blob/Main/Desain%20Tabel/Gamma.jpg)
+![Gamma](https://github.com/amarSans/tugasWeb/blob/Main/FullTampilanCode/image/High_resolution_wallpaper_background_ID_77701456476.jpg)
 # tugasWeb
 _branch main adalah gabungan dari tampilan tugas yang diberikan. untuk melihat detail tugas yang diberikan silahkan pilih branch yang ada di repository ini, atau dapat menklik link berikut_
 
