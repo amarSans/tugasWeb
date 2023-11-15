@@ -1,3 +1,4 @@
+![Gamma](https://github.com/amarSans/tugasWeb/blob/Main/Desain%20Tabel/Gamma.jpg)
 # tugasWeb
 _branch main adalah gabungan dari tampilan tugas yang diberikan. untuk melihat detail tugas yang diberikan silahkan pilih branch yang ada di repository ini, atau dapat menklik link berikut_
 
@@ -7,4 +8,4 @@ _branch main adalah gabungan dari tampilan tugas yang diberikan. untuk melihat d
 + [Desain Tabel](https://github.com/amarSans/tugasWeb/tree/DesainTabel/)
 + [Desain Form](https://github.com/amarSans/tugasWeb/blob/DesainFrom/)
 
-![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://github.com/amarSans/tugasWeb/blob/Main/Desain%20Tabel/Gamma.jpg)
+
