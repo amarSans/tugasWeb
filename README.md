@@ -1,5 +1,3 @@
-# tugasWeb
-
 # update yang ditambahkan:
 * pada class header mengubah background-color: #280872 menjadi #9e0c0c;
 * pada class header menambahkan display: flex;
