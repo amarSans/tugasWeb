@@ -4,5 +4,5 @@ _branch main adalah gabungan dari tampilan tugas yang diberikan. untuk melihat d
 + [Desain Landing Page](https://github.com/amarSans/tugasWeb/blob/DesainLandingPage/)
 + [Desain Halaman Login]
 + [Desain Dasboard]
-+ [Desain Tabel]
++ [Desain Tabel](https://github.com/amarSans/tugasWeb/tree/DesainTabel/)
 + [Desain From]
