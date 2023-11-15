@@ -1,2 +1,2 @@
 # tugasWeb
-mengubah 
+_branch main adalah gabungan dari tampilan tugas yang diberikan. untuk melihat detail tugas yang diberikan silahkan pilih branch yang ada di repository ini_
